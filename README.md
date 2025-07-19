@@ -17,7 +17,9 @@ Fine-tuned ResNet-50 model to classify rip currents from aerial footage
 Backend built with FastAPI, optimized for GPU acceleration
 Mobile alerts delivered via a Flutter-based app to notify lifeguards instantly
 
-#Design and Development by :
+Link for Demo : https://drive.google.com/file/d/1DVGoBSFlTZHCpIUwSdlCTr68lTSnQtWq/view?usp=sharing
+
+#Development and Design by :
 Hanin Ayman El Sayed
 Esraa Ahmed Ibrahim
 Rahma Sha3ban Esmail
