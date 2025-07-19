@@ -41,12 +41,13 @@ while user and alert data are stored and managed using Firebase services
 Link for Demo : https://drive.google.com/file/d/1DVGoBSFlTZHCpIUwSdlCTr68lTSnQtWq/view?usp=sharing
 
 #Development and Design by 
-Hanin Ayman El Sayed
-Esraa Ahmed Ibrahim
-Rahma Sha3ban Esmail
-Ali Khalid Mahmoud
-Mohamed Emad Mohamed
-Mostafa Saad
+
+-> Hanin Ayman El Sayed
+-> Esraa Ahmed Ibrahim
+-> Rahma Sha3ban Esmail
+-> Mohamed Emad Mohamed
+-> Ali Khalid Mahmoud
+-> Mostafa Saad
 
 #Academic Information
 Institution: Ain Shams University – Faculty of Computer and Information Science.
