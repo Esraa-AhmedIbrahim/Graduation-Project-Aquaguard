@@ -26,7 +26,7 @@ Mohamed Emad Mohamed
 Mostafa Saad
 
 #Academic Information
-Institution: Ain Shams University – Faculty of Engineering
+Institution: Ain Shams University – Faculty of Computer and Information Science.
 Project Type: Graduation Project (2025)
 Grade: A+
 Supervisor: Dr. Ahmed Salah, Department of Computer Science.
