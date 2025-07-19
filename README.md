@@ -29,14 +29,12 @@ Shark & Human Detection: YOLO detects humans and sharks in the same frame.
 4) Sequence-Based Detection:
 If a human is detected, their movement is tracked using DeepSORT.
 A Transformer model analyzes the sequence of frames to detect drowning behavior.
-
 5) Alert Generation & Severity Handling
 If a threat is detected, the system generates an alert.
 6) Severity Level:
 High severity: When a human is detected near a shark or inside a rip current.
 Low severity: When the threat is present without a human nearby .
-
-7)User Notification & Data Storage
+7) User Notification & Data Storage
 Alerts with severity levels are sent to registered users via the Flutter mobile app,
 while user and alert data are stored and managed using Firebase services
 
