@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496061846354",
+    "project_id": "aqua-guard-83f74",
+    "storage_bucket": "aqua-guard-83f74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496061846354:android:f27c74a55ac6f40f24e08b",
+        "android_client_info": {
+          "package_name": "com.example.aqua_guard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMtNarG-WqYr2eE13_NoVmOKYwugOFIc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
